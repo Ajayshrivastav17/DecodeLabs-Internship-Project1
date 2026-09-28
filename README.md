@@ -1,6 +1,6 @@
-# CLI Task Tracker
+# To-Do-List
 
-A simple command-line task management application built with **Python**.
+A simple  task management application built with **Python**.
 
 The application allows users to create, update, delete, and manage tasks directly from the terminal. Tasks are stored permanently in a local `Tasks.json` file.
 
